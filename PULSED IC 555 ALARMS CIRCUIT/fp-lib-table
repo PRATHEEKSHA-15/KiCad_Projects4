@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 2N3704)(type KiCad)(uri "C:/Users/Pratheeksha/Desktop/kicad project/2N3704")(options "")(descr ""))
+  (lib (name FSM8JH)(type KiCad)(uri "C:/Users/Pratheeksha/Desktop/kicad project/FSM8JH")(options "")(descr ""))
+)

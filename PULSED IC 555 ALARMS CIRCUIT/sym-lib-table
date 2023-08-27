@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2N3704)(type Legacy)(uri "C:/Users/Pratheeksha/Desktop/kicad project/2N3704/2N3704.lib")(options "")(descr ""))
+  (lib (name FSM8JH)(type Legacy)(uri "C:/Users/Pratheeksha/Desktop/kicad project/FSM8JH/FSM8JH.lib")(options "")(descr ""))
+)
